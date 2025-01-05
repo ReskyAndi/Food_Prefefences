@@ -1,4 +1,5 @@
-Food Preferences Survey 2019, kaggle.com
+Food Preferences Survey 2019, kaggle.com https://www.kaggle.com/datasets/vijayashreer/food-preferences
+
 Purpose : This project analyzes historical sales data to uncover patterns, trends, and insights for better decision-making. The analysis focuses on identifying patterns and clusters the data.
 
 Process : 
