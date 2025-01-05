@@ -1,0 +1,289 @@
+Gender,Food,Juice,Dessert,Nationality,Age Group,Hour Group,Cluster
+Male,Traditional food,Fresh Juice,Maybe,Indian,18-25,Afternoon,4
+Female,Western Food,Carbonated drinks,Yes,Indian,18-25,Afternoon,2
+Male,Western Food,Fresh Juice,Maybe,Indian,26-35,Afternoon,4
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Afternoon,4
+Male,Traditional food,Fresh Juice,Maybe,Indian,26-35,Afternoon,4
+Male,Traditional food,Fresh Juice,Yes,Indian,18-25,Afternoon,4
+Female,Traditional food,Fresh Juice,Yes,Indian,26-35,Afternoon,0
+Male,Western Food,Carbonated drinks,Yes,Other,18-25,Afternoon,2
+Female,Traditional food,Fresh Juice,Yes,Indian,18-25,Afternoon,4
+Female,Western Food,Fresh Juice,Yes,Indian,<18,Afternoon,4
+Male,Traditional food,Fresh Juice,No,Other,18-25,Afternoon,4
+Female,Traditional food,Fresh Juice,Yes,Indian,18-25,Afternoon,4
+Female,Traditional food,Fresh Juice,Maybe,Other,18-25,Afternoon,4
+Female,Western Food,Carbonated drinks,Yes,Indian,18-25,Afternoon,2
+Male,Traditional food,Fresh Juice,Yes,Other,26-35,Afternoon,2
+Male,Traditional food,Fresh Juice,Maybe,Other,26-35,Afternoon,4
+Male,Traditional food,Fresh Juice,No,Other,26-35,Afternoon,4
+Male,Traditional food,Fresh Juice,No,Other,18-25,Afternoon,4
+Female,Traditional food,Fresh Juice,Maybe,Other,36-45,Afternoon,4
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Afternoon,4
+Male,Traditional food,Carbonated drinks,Maybe,Other,18-25,Afternoon,2
+Male,Traditional food,Fresh Juice,Maybe,Other,18-25,Afternoon,4
+Male,Western Food,Fresh Juice,Maybe,Other,18-25,Afternoon,2
+Male,Western Food,Fresh Juice,Yes,Other,18-25,Afternoon,2
+Male,Traditional food,Fresh Juice,Yes,Other,18-25,Afternoon,2
+Female,Traditional food,Fresh Juice,Yes,Other,18-25,Afternoon,2
+Male,Traditional food,Fresh Juice,Maybe,Indian,36-45,Afternoon,4
+Female,Western Food,Fresh Juice,Yes,Other,26-35,Afternoon,2
+Male,Traditional food,Fresh Juice,Yes,Indian,36-45,Afternoon,4
+Male,Traditional food,Fresh Juice,Yes,Indian,26-35,Afternoon,4
+Male,Traditional food,Carbonated drinks,Maybe,Other,18-25,Afternoon,2
+Female,Western Food,Fresh Juice,Yes,Other,36-45,Afternoon,2
+Male,Western Food,Fresh Juice,Maybe,Indian,<18,Afternoon,4
+Male,Western Food,Fresh Juice,Maybe,Indian,<18,Afternoon,4
+Male,Western Food,Fresh Juice,Maybe,Indian,<18,Afternoon,4
+Male,Western Food,Fresh Juice,Yes,Other,18-25,Afternoon,2
+Male,Western Food,Fresh Juice,Maybe,Indian,<18,Afternoon,4
+Male,Traditional food,Fresh Juice,Yes,Indian,18-25,Afternoon,4
+Male,Traditional food,Fresh Juice,Maybe,Other,18-25,Afternoon,4
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Afternoon,4
+Female,Traditional food,Fresh Juice,Maybe,Other,18-25,Afternoon,4
+Male,Traditional food,Fresh Juice,Yes,Other,26-35,Afternoon,2
+Male,Western Food,Fresh Juice,Yes,Other,18-25,Afternoon,2
+Male,Traditional food,Carbonated drinks,Yes,Other,60+,Afternoon,2
+Male,Western Food,Carbonated drinks,Yes,Other,18-25,Evening,2
+Female,Traditional food,Fresh Juice,Yes,Other,18-25,Evening,2
+Male,Western Food,Fresh Juice,Yes,Other,18-25,Evening,2
+Male,Western Food,Fresh Juice,Yes,Indian,26-35,Evening,2
+Male,Traditional food,Fresh Juice,Maybe,Indian,18-25,Evening,4
+Female,Traditional food,Fresh Juice,Yes,Other,26-35,Evening,2
+Female,Traditional food,Fresh Juice,Maybe,Indian,18-25,Evening,4
+Male,Western Food,Fresh Juice,No,Other,26-35,Evening,2
+Male,Traditional food,Fresh Juice,No,Indian,26-35,Evening,1
+Female,Traditional food,Fresh Juice,Yes,Indian,26-35,Evening,0
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Evening,1
+Male,Western Food,Carbonated drinks,Yes,Indian,18-25,Evening,2
+Female,Traditional food,Fresh Juice,Yes,Indian,26-35,Evening,0
+Male,Traditional food,Fresh Juice,Maybe,Indian,18-25,Evening,4
+Male,Traditional food,Fresh Juice,No,Indian,46-60,Evening,0
+Male,Western Food,Carbonated drinks,Maybe,Indian,18-25,Evening,2
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Evening,1
+Female,Western Food,Fresh Juice,Maybe,Indian,26-35,Evening,1
+Female,Traditional food,Carbonated drinks,Yes,Indian,46-60,Evening,0
+Male,Traditional food,Carbonated drinks,Maybe,Other,18-25,Evening,2
+Male,Traditional food,Carbonated drinks,Maybe,Indian,26-35,Evening,1
+Male,Traditional food,Fresh Juice,Yes,Indian,60+,Evening,0
+Female,Traditional food,Fresh Juice,Yes,Indian,26-35,Evening,0
+Male,Traditional food,Fresh Juice,Maybe,Other,18-25,Evening,4
+Male,Western Food,Carbonated drinks,Yes,Other,18-25,Evening,2
+Female,Traditional food,Fresh Juice,Yes,Indian,60+,Evening,0
+Female,Traditional food,Fresh Juice,No,Indian,26-35,Evening,3
+Male,Traditional food,Fresh Juice,Maybe,Indian,26-35,Evening,1
+Female,Traditional food,Fresh Juice,Yes,Other,18-25,Evening,2
+Female,Traditional food,Fresh Juice,Yes,Indian,60+,Evening,0
+Female,Traditional food,Carbonated drinks,Yes,Indian,26-35,Evening,0
+Male,Traditional food,Fresh Juice,Yes,Indian,26-35,Evening,1
+Female,Traditional food,Fresh Juice,Maybe,Indian,36-45,Evening,3
+Male,Traditional food,Fresh Juice,Yes,Other,18-25,Evening,2
+Male,Traditional food,Fresh Juice,Yes,Indian,36-45,Evening,3
+Female,Traditional food,Fresh Juice,No,Indian,26-35,Evening,3
+Female,Traditional food,Fresh Juice,No,Indian,26-35,Evening,3
+Female,Traditional food,Fresh Juice,Yes,Other,18-25,Evening,2
+Female,Traditional food,Fresh Juice,Yes,Indian,18-25,Evening,0
+Female,Traditional food,Fresh Juice,No,Indian,36-45,Evening,3
+Male,Traditional food,Fresh Juice,Maybe,Other,26-35,Evening,4
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Evening,1
+Female,Traditional food,Fresh Juice,Yes,Indian,36-45,Evening,3
+Female,Traditional food,Fresh Juice,No,Indian,36-45,Evening,3
+Female,Traditional food,Fresh Juice,Yes,Other,26-35,Evening,2
+Male,Traditional food,Fresh Juice,Maybe,Other,18-25,Evening,4
+Female,Traditional food,Fresh Juice,No,Indian,60+,Evening,3
+Female,Traditional food,Fresh Juice,Yes,Other,18-25,Evening,2
+Female,Western Food,Fresh Juice,No,Indian,36-45,Evening,3
+Male,Traditional food,Fresh Juice,Maybe,Other,18-25,Evening,4
+Female,Traditional food,Fresh Juice,No,Other,18-25,Evening,2
+Female,Western Food,Carbonated drinks,Yes,Indian,26-35,Evening,2
+Female,Western Food,Carbonated drinks,Maybe,Indian,26-35,Evening,2
+Female,Traditional food,Fresh Juice,Maybe,Other,18-25,Evening,4
+Male,Traditional food,Carbonated drinks,Yes,Indian,18-25,Evening,2
+Female,Western Food,Fresh Juice,Maybe,Other,26-35,Evening,2
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Evening,1
+Male,Traditional food,Fresh Juice,Yes,Indian,36-45,Evening,3
+Male,Traditional food,Fresh Juice,Yes,Other,18-25,Evening,2
+Female,Western Food,Fresh Juice,Maybe,Indian,18-25,Evening,4
+Female,Traditional food,Fresh Juice,Yes,Indian,18-25,Evening,0
+Female,Traditional food,Fresh Juice,Yes,Indian,18-25,Evening,0
+Female,Traditional food,Fresh Juice,Yes,Indian,18-25,Evening,0
+Female,Traditional food,Fresh Juice,Yes,Indian,46-60,Evening,0
+Male,Western Food,Carbonated drinks,Yes,Indian,18-25,Evening,2
+Female,Western Food,Fresh Juice,Yes,Indian,<18,Evening,2
+Male,Western Food,Fresh Juice,Yes,Indian,18-25,Evening,2
+Female,Traditional food,Fresh Juice,No,Indian,46-60,Evening,0
+Male,Traditional food,Fresh Juice,No,Indian,46-60,Evening,0
+Female,Traditional food,Fresh Juice,No,Indian,46-60,Evening,0
+Male,Traditional food,Fresh Juice,Yes,Other,26-35,Evening,2
+Male,Traditional food,Fresh Juice,Yes,Indian,18-25,Evening,4
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Evening,1
+Female,Traditional food,Fresh Juice,Yes,Indian,26-35,Evening,0
+Female,Traditional food,Fresh Juice,No,Indian,<18,Evening,3
+Female,Traditional food,Fresh Juice,Yes,Indian,26-35,Evening,0
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Evening,1
+Male,Traditional food,Fresh Juice,No,Indian,<18,Evening,4
+Female,Western Food,Fresh Juice,No,Indian,26-35,Evening,3
+Male,Traditional food,Fresh Juice,Maybe,Indian,18-25,Evening,4
+Male,Traditional food,Carbonated drinks,Yes,Indian,46-60,Evening,0
+Female,Traditional food,Carbonated drinks,Maybe,Indian,46-60,Evening,0
+Male,Traditional food,Fresh Juice,Maybe,Other,18-25,Evening,4
+Male,Traditional food,Fresh Juice,Maybe,Other,18-25,Evening,4
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Evening,1
+Male,Traditional food,Fresh Juice,Maybe,Indian,26-35,Evening,1
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Evening,1
+Male,Traditional food,Fresh Juice,No,Indian,26-35,Evening,1
+Female,Traditional food,Fresh Juice,No,Indian,26-35,Evening,3
+Female,Traditional food,Fresh Juice,Maybe,Indian,36-45,Evening,3
+Female,Traditional food,Fresh Juice,Yes,Indian,26-35,Evening,0
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Evening,1
+Female,Western Food,Carbonated drinks,Maybe,Other,26-35,Evening,2
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Evening,1
+Male,Traditional food,Fresh Juice,No,Indian,46-60,Evening,0
+Male,Traditional food,Fresh Juice,No,Indian,60+,Evening,3
+Female,Traditional food,Fresh Juice,Maybe,Indian,60+,Evening,3
+Male,Western Food,Carbonated drinks,Yes,Indian,18-25,Evening,2
+Female,Traditional food,Fresh Juice,Yes,Indian,36-45,Evening,3
+Female,Traditional food,Fresh Juice,No,Indian,36-45,Evening,3
+Male,Traditional food,Fresh Juice,Yes,Indian,36-45,Evening,3
+Male,Western Food,Fresh Juice,Maybe,Indian,26-35,Evening,1
+Female,Traditional food,Fresh Juice,Yes,Indian,18-25,Evening,0
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Evening,1
+Female,Traditional food,Fresh Juice,Maybe,Indian,36-45,Evening,3
+Male,Traditional food,Fresh Juice,Maybe,Indian,26-35,Evening,1
+Male,Western Food,Fresh Juice,Yes,Indian,26-35,Evening,2
+Male,Traditional food,Fresh Juice,Yes,Indian,18-25,Evening,4
+Male,Traditional food,Fresh Juice,Yes,Indian,26-35,Evening,1
+Male,Traditional food,Fresh Juice,Yes,Indian,26-35,Evening,1
+Male,Western Food,Carbonated drinks,Yes,Indian,<18,Evening,2
+Female,Traditional food,Fresh Juice,Maybe,Indian,36-45,Evening,3
+Female,Traditional food,Fresh Juice,Yes,Indian,36-45,Evening,3
+Male,Traditional food,Fresh Juice,Maybe,Indian,<18,Evening,4
+Male,Traditional food,Carbonated drinks,Maybe,Indian,26-35,Evening,1
+Male,Traditional food,Fresh Juice,Maybe,Indian,18-25,Evening,4
+Male,Western Food,Fresh Juice,Maybe,Indian,26-35,Evening,1
+Female,Traditional food,Fresh Juice,No,Indian,60+,Evening,3
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Evening,1
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Night,1
+Male,Traditional food,Fresh Juice,Maybe,Indian,26-35,Night,1
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Night,1
+Female,Traditional food,Fresh Juice,Yes,Indian,26-35,Night,0
+Male,Traditional food,Fresh Juice,No,Indian,26-35,Night,1
+Female,Traditional food,Fresh Juice,Yes,Indian,26-35,Night,0
+Female,Traditional food,Carbonated drinks,Yes,Indian,26-35,Night,0
+Male,Traditional food,Fresh Juice,No,Indian,26-35,Night,1
+Female,Traditional food,Fresh Juice,Yes,Indian,26-35,Night,0
+Female,Western Food,Carbonated drinks,Maybe,Indian,26-35,Night,1
+Female,Traditional food,Fresh Juice,Yes,Indian,18-25,Night,0
+Female,Traditional food,Fresh Juice,No,Indian,26-35,Night,1
+Female,Traditional food,Carbonated drinks,Maybe,Indian,26-35,Night,1
+Male,Traditional food,Fresh Juice,Maybe,Indian,26-35,Night,1
+Male,Western Food,Fresh Juice,Yes,Indian,<18,Night,2
+Female,Traditional food,Fresh Juice,Maybe,Indian,36-45,Late Night,3
+Female,Traditional food,Fresh Juice,No,Indian,36-45,Late Night,3
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Late Night,1
+Female,Traditional food,Fresh Juice,Maybe,Indian,46-60,Late Night,0
+Female,Traditional food,Fresh Juice,Maybe,Indian,36-45,Late Night,3
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Late Night,1
+Female,Western Food,Fresh Juice,Yes,Indian,36-45,Late Night,3
+Female,Traditional food,Fresh Juice,Maybe,Indian,36-45,Late Night,3
+Female,Traditional food,Fresh Juice,Yes,Indian,26-35,Late Night,1
+Female,Traditional food,Fresh Juice,Maybe,Indian,46-60,Late Night,0
+Female,Traditional food,Fresh Juice,Yes,Indian,26-35,Late Night,1
+Female,Traditional food,Fresh Juice,No,Indian,36-45,Late Night,3
+Female,Traditional food,Fresh Juice,Yes,Indian,46-60,Late Night,0
+Male,Traditional food,Fresh Juice,Yes,Indian,18-25,Late Night,1
+Female,Traditional food,Fresh Juice,Maybe,Indian,36-45,Morning,3
+Female,Traditional food,Fresh Juice,Maybe,Indian,46-60,Morning,0
+Male,Traditional food,Fresh Juice,Maybe,Indian,26-35,Morning,1
+Female,Traditional food,Fresh Juice,No,Indian,26-35,Morning,3
+Female,Traditional food,Fresh Juice,No,Indian,36-45,Morning,3
+Female,Traditional food,Fresh Juice,No,Indian,36-45,Morning,3
+Female,Traditional food,Fresh Juice,Maybe,Indian,46-60,Morning,0
+Female,Traditional food,Fresh Juice,Maybe,Indian,36-45,Morning,3
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Morning,1
+Male,Traditional food,Fresh Juice,Yes,Indian,26-35,Morning,1
+Female,Traditional food,Fresh Juice,No,Indian,46-60,Morning,0
+Female,Traditional food,Fresh Juice,No,Indian,36-45,Morning,3
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Morning,1
+Female,Traditional food,Fresh Juice,Maybe,Indian,18-25,Afternoon,4
+Female,Traditional food,Fresh Juice,Maybe,Indian,18-25,Afternoon,4
+Female,Traditional food,Fresh Juice,No,Indian,36-45,Afternoon,3
+Female,Traditional food,Fresh Juice,Maybe,Indian,36-45,Afternoon,3
+Female,Traditional food,Fresh Juice,No,Indian,26-35,Afternoon,3
+Female,Traditional food,Fresh Juice,No,Indian,26-35,Afternoon,3
+Female,Traditional food,Fresh Juice,Yes,Indian,36-45,Afternoon,3
+Female,Traditional food,Fresh Juice,No,Indian,46-60,Afternoon,0
+Female,Traditional food,Carbonated drinks,Maybe,Indian,18-25,Afternoon,4
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Afternoon,4
+Female,Western Food,Fresh Juice,Maybe,Indian,18-25,Afternoon,4
+Female,Western Food,Fresh Juice,Maybe,Indian,18-25,Afternoon,4
+Female,Traditional food,Fresh Juice,No,Indian,36-45,Afternoon,3
+Female,Traditional food,Fresh Juice,Maybe,Indian,36-45,Afternoon,3
+Male,Traditional food,Fresh Juice,Yes,Indian,26-35,Afternoon,4
+Female,Traditional food,Fresh Juice,Maybe,Indian,36-45,Afternoon,3
+Male,Traditional food,Fresh Juice,No,Indian,36-45,Afternoon,3
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Afternoon,4
+Female,Traditional food,Fresh Juice,Maybe,Indian,36-45,Afternoon,3
+Male,Traditional food,Fresh Juice,Yes,Indian,36-45,Afternoon,4
+Female,Traditional food,Fresh Juice,Yes,Indian,26-35,Afternoon,0
+Female,Traditional food,Fresh Juice,Maybe,Indian,36-45,Afternoon,3
+Female,Traditional food,Fresh Juice,Yes,Indian,26-35,Afternoon,0
+Female,Traditional food,Fresh Juice,No,Indian,46-60,Afternoon,0
+Male,Western Food,Fresh Juice,Maybe,Indian,36-45,Afternoon,4
+Male,Traditional food,Fresh Juice,Maybe,Indian,36-45,Afternoon,4
+Female,Traditional food,Carbonated drinks,Maybe,Indian,36-45,Afternoon,3
+Female,Western Food,Fresh Juice,Yes,Indian,18-25,Afternoon,2
+Female,Western Food,Fresh Juice,Maybe,Indian,26-35,Afternoon,4
+Female,Traditional food,Fresh Juice,No,Indian,36-45,Afternoon,3
+Male,Traditional food,Fresh Juice,Maybe,Indian,18-25,Afternoon,4
+Female,Traditional food,Fresh Juice,Yes,Indian,26-35,Afternoon,0
+Female,Traditional food,Fresh Juice,Yes,Indian,36-45,Afternoon,3
+Female,Traditional food,Fresh Juice,Maybe,Indian,46-60,Afternoon,0
+Female,Traditional food,Fresh Juice,Maybe,Indian,18-25,Afternoon,4
+Male,Traditional food,Fresh Juice,Yes,Indian,<18,Evening,4
+Female,Traditional food,Fresh Juice,Yes,Indian,46-60,Evening,0
+Female,Western Food,Fresh Juice,Maybe,Indian,18-25,Evening,4
+Female,Traditional food,Fresh Juice,Yes,Indian,36-45,Evening,3
+Female,Traditional food,Fresh Juice,Maybe,Indian,36-45,Evening,3
+Female,Traditional food,Fresh Juice,Yes,Indian,36-45,Evening,3
+Female,Traditional food,Fresh Juice,No,Indian,36-45,Evening,3
+Female,Traditional food,Fresh Juice,No,Indian,36-45,Evening,3
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Evening,1
+Female,Traditional food,Fresh Juice,Yes,Indian,26-35,Evening,0
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Evening,1
+Female,Traditional food,Fresh Juice,Yes,Indian,26-35,Evening,0
+Female,Traditional food,Fresh Juice,Maybe,Indian,26-35,Evening,1
+Female,Traditional food,Fresh Juice,Maybe,Indian,36-45,Night,3
+Female,Traditional food,Fresh Juice,No,Indian,<18,Night,3
+Male,Traditional food,Fresh Juice,Maybe,Indian,36-45,Late Night,1
+Female,Traditional food,Fresh Juice,Yes,Indian,36-45,Late Night,3
+Female,Traditional food,Fresh Juice,Yes,Indian,36-45,Late Night,3
+Female,Traditional food,Fresh Juice,No,Indian,36-45,Morning,3
+Female,Traditional food,Fresh Juice,Yes,Indian,36-45,Morning,3
+Female,Traditional food,Fresh Juice,No,Indian,46-60,Morning,0
+Female,Traditional food,Fresh Juice,Maybe,Indian,36-45,Afternoon,3
+Male,Traditional food,Fresh Juice,Yes,Indian,26-35,Late Night,1
+Male,Traditional food,Fresh Juice,No,Indian,26-35,Late Night,1
+Male,Traditional food,Fresh Juice,Yes,Indian,26-35,Late Night,1
+Male,Western Food,Fresh Juice,Yes,Indian,26-35,Late Night,1
+Male,Traditional food,Fresh Juice,Yes,Indian,26-35,Late Night,1
+Male,Traditional food,Fresh Juice,Maybe,Indian,26-35,Late Night,1
+Male,Traditional food,Fresh Juice,Yes,Indian,18-25,Late Night,1
+Male,Traditional food,Fresh Juice,Maybe,Indian,26-35,Late Night,1
+Male,Traditional food,Carbonated drinks,Yes,Indian,18-25,Late Night,2
+Male,Traditional food,Fresh Juice,Maybe,Indian,26-35,Late Night,1
+Male,Traditional food,Fresh Juice,Maybe,Indian,18-25,Late Night,1
+Female,Traditional food,Fresh Juice,Maybe,Indian,18-25,Late Night,1
+Male,Western Food,Fresh Juice,Maybe,Indian,26-35,Late Night,1
+Male,Traditional food,Fresh Juice,Maybe,Indian,26-35,Late Night,1
+Male,Traditional food,Carbonated drinks,Yes,Indian,26-35,Late Night,1
+Female,Traditional food,Fresh Juice,Yes,Indian,26-35,Late Night,1
+Male,Traditional food,Carbonated drinks,Yes,Indian,26-35,Late Night,1
+Male,Traditional food,Fresh Juice,Maybe,Indian,18-25,Late Night,1
+Male,Traditional food,Fresh Juice,Maybe,Indian,26-35,Late Night,1
+Male,Traditional food,Fresh Juice,Maybe,Indian,26-35,Early Morning,1
+Male,Traditional food,Fresh Juice,No,Indian,26-35,Morning,1
+Male,Western Food,Fresh Juice,Yes,Indian,26-35,Morning,1
+Male,Traditional food,Fresh Juice,Yes,Indian,18-25,Morning,4
+Male,Traditional food,Fresh Juice,Yes,Indian,26-35,Afternoon,4
+Male,Traditional food,Fresh Juice,Yes,Indian,26-35,Afternoon,4
+Male,Traditional food,Fresh Juice,No,Indian,26-35,Afternoon,4
